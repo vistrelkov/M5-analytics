@@ -1,0 +1,6 @@
+.env
+*.env
+!.env.example
+pgdata/
+*.pem
+*.log
